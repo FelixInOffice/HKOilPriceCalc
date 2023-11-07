@@ -1568,7 +1568,7 @@
   "resolved" "https://registry.npmjs.org/available-typed-arrays/-/available-typed-arrays-1.0.5.tgz"
   "version" "1.0.5"
 
-"axios@^1.2.2":
+"axios@^1.2.2", "axios@^1.6.0":
   "integrity" "sha512-EZ1DYihju9pwVB+jg67ogm+Tmqc6JmhamRN6I4Zt8DfZu5lbcQGw3ozH9lFejSJgs/ibaef3A9PMXPLeefFGJg=="
   "resolved" "https://registry.npmjs.org/axios/-/axios-1.6.0.tgz"
   "version" "1.6.0"
