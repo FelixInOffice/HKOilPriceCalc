@@ -1,0 +1,25 @@
+{
+  "name": "hkoilpricecalc",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview",
+    "generate-pwa-assets": "pwa-assets-generator"
+  },
+  "dependencies": {
+    "pinia": "^2.1.7",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vite-pwa/assets-generator": "^0.0.10",
+    "@vitejs/plugin-vue": "^4.4.0",
+    "sass": "^1.69.5",
+    "sass-loader": "^13.3.2",
+    "vite": "^4.4.11",
+    "vite-plugin-mkcert": "^1.16.0",
+    "vite-plugin-pwa": "^0.16.7"
+  }
+}
